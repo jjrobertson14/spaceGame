@@ -1,2 +1,2 @@
 # spaceGame
-Fall Prject 2016
+Fall Project 2016
